@@ -1,0 +1,85 @@
+
+table{
+    border: 0;
+    border-collapse: collapse;
+    background-color: #efe3ef;
+    color:	#000000;
+    border: solid 1px	#000000;
+}
+
+td{
+ 
+    border: solid 1px #000000;
+    text-align: center;
+    padding: 8px;
+}
+button.client1 {
+    background-color: #3498db;
+    color:	#C4E1FF;
+    font-size:medium;
+    font-weight:bold;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+   
+}
+button.account1 {
+    background-color: #7ce1a6;
+    color:	#01814A;
+    font-size:medium;
+    font-weight:bold;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+   
+}
+button.order1 {
+    background-color: #d8e1a5;
+    color:#8C8C00;
+    font-size:medium;
+    font-weight:bold;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+   
+}
+button.product1 {
+    background-color: #efe3ef;
+    color:	#F00078;
+    font-size:medium;
+    font-weight:bold;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+button.pink {
+    background-color: #efe3ef;
+    color:	#F00078;
+    font-size:medium;
+    font-weight:bold;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+button.blue {
+    background-color: #3498db;
+    color:	#C4E1FF;
+    font-size:medium;
+    font-weight:bold;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+
+   
+}
